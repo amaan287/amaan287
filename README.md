@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on job boarding website<br>👯 I’m looking to collaborate on ai saas form builder<br>🤝 I’m looking for help with referral<br>🌱 I’m currently learning three.js<br>
+🔭 I’m currently working on metaverse application <br>👯 I’m looking to collaborate on ai saas form builder<br>🤝 I’m looking for help with referral<br>🌱 I’m currently learning typescript for backend <br>
 
 
 ## 🌐 Socials:
